@@ -1,1 +1,1 @@
-# React-Project-Word-Counter-
+# React-Project-Word-Counter
